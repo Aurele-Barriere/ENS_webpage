@@ -36,8 +36,8 @@ h1, h2, h3, h4, h5, h6
   padding: 10px 0 5px 0;}
 
 h2
-{ font: normal 165% 'century gothic', arial, sans-serif;
-  color: #4993fa;}
+{ font: normal 120% 'century gothic', arial, sans-serif;
+  color: #02204b;}
 
 h3
 { font: normal 165% 'century gothic', arial, sans-serif;}
@@ -164,7 +164,7 @@ ul#menu li a:hover
 { color: #937753;}
 
 #site_content
-{ width: 858px;
+{ width: 850px;
   overflow: hidden;
   margin: 0 auto 0 auto;
   padding: 10px 20px 20px 20px;
@@ -196,6 +196,6 @@ ul#menu li a:hover
 
 #content
 { text-align: left;
-  width: 613px;
-  padding: 0;}
+  width: 850px;
+  padding: 0px;}
 
